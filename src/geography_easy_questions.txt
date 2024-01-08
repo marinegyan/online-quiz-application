@@ -1,0 +1,3 @@
+What is the capital of Australia?,Sydney,Melbourne,Canberra,Brisbane,3
+Which river is the longest in the world?,Amazon,Nile,Yangtze,Mississippi,1
+In which continent is the Sahara Desert located?,Africa,Asia,North America,Europe,1

@@ -1,0 +1,3 @@
+What is the SI unit of force?,Newton,Joule,Watt,Ampere,1
+What is the speed of light?,300000 km/s,150000 km/s,500000 km/s,1000000 km/s,1
+What is the unit of electric charge?,Coulomb,Ohm,Volt,Watt,1

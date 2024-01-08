@@ -1,0 +1,3 @@
+What is the law of conservation of energy?,Energy can neither be created nor destroyed,Energy always increases,Energy always decreases,Energy is random,1
+Define Newton's three laws of motion.,Laws describing the motion of planets,Laws governing the behavior of light,Laws explaining the behavior of subatomic particles,Laws describing the motion of objects,4
+What is the formula for calculating work?,Force × Distance,Mass × Acceleration,Energy ÷ Time,Velocity × Time,1
